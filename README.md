@@ -1,1 +1,2 @@
 # Restaurant-Order-System-Cpp
+This repository houses a C++ based restaurant order system. It allows users to place orders, calculate bills, and manage restaurant orders efficiently. Utilizing object-oriented principles, it provides a foundation for building a robust digital solution for restaurant management. Enhance your C++ skills and explore the world of restaurant order systems with this project.
